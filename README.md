@@ -1,2 +1,2 @@
 # -FE-Assignment
- I have used bootstrap in public/index.html
+ I have used bootstrap link in public/index.html
