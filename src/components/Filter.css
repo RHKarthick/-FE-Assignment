@@ -1,0 +1,17 @@
+.filter{
+    background-color: rgb(7, 7, 7);
+    border: 2px solid darkgray;
+    border-radius: 2px;
+}
+.options{
+    padding: 0.5rem;
+    margin-left: 23rem;
+    
+}
+.term{
+    color: cornsilk;
+    font-family: monospace;
+    font-size: 1rem;
+    padding-left: 1rem;
+}
+   

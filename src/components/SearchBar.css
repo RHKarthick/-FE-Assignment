@@ -1,0 +1,17 @@
+.searchbox{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(8, 8, 8);
+    
+}
+.searchtext{
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 20px;
+    color: rgb(12, 12, 12);
+}
+.heading{
+    background-color:rgb(207, 207, 206);
+    font-family:serif;
+}
